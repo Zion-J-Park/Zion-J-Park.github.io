@@ -283,6 +283,8 @@ defaults:
       share: true
       related: true
       popular: false
+      toc_ads: true
+      toc_sticky: true
 
   - scope:
       path: ""
