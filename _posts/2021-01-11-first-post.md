@@ -2,15 +2,17 @@
 title: "첫번째 블로그 글 등록"
 excerpt: "예시겸 첫번째 등록을 기념하기 위한 포스트"
 toc: true
-header:
-  teaser: /assets/images/canadian-rockies-in-winter-emerald-lake-lodge.jpg
+toc_sticky: true
+toc_label: "TOC 예제"
+# header:
+#   teaser: /assets/images/canadian-rockies-in-winter-emerald-lake-lodge.jpg
 
 categories:
     - 그 외
 tags:
     - 기념
 ---
-# 첫번째 블로그 글 등록
+## 첫번째 블로그 글 등록
 
 ~약 일주일의 고생 끝에~ github 블로그에 첫 글을 등록했습니다.
 
