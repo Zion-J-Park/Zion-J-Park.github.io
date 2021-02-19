@@ -24,7 +24,7 @@ description              : "개발관련 공부 및 여러 관심사들을 정�
 url                      : "https://zion-j-park.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/istockphoto-1175744342-612x612.jpg" #"/assets/images/wallpaperbetter.com_1366x768.png"
+teaser                   : "/assets/images/canadian-rockies-in-winter-emerald-lake-lodge.jpg" #"/assets/images/wallpaperbetter.com_1366x768.png"
 logo                     : #"/assets/images/istockphoto-1175744342-612x612"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : True # true, false (default)
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/istockphoto-1175744342-612x612.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "박종훈"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/istockphoto-1175744342-612x612.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발관련 공부뿐만 아니라 다양한 분야에 관심이 많습니다.<br>최대한 많이 읽고 습득해서 올바른 내용들을 공유하려고 합니다. <br>잘못된 부분이 있으면 댓글로 남겨주시면 감사하겠습니다."
   location         : "Republic of Korea"
   email            : "snowing87@gmail.com"
@@ -210,9 +210,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
