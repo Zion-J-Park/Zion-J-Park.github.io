@@ -24,7 +24,7 @@ description              : "개발관련 공부 및 여러 관심사들을 정�
 url                      : "https://zion-j-park.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/canadian-rockies-in-winter-emerald-lake-lodge.jpg" #"/assets/images/wallpaperbetter.com_1366x768.png"
+teaser                   : "/assets/images/canadian-rockies-in-winter-emerald-lake-lodge.jpg"
 logo                     : #"/assets/images/istockphoto-1175744342-612x612"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : True # true, false (default)
@@ -285,7 +285,7 @@ defaults:
       popular: false
 
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
